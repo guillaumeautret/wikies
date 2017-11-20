@@ -1,4 +1,3 @@
-<?php require_once ''; ?>
 <?php include '../incs/header.php'; ?>
 <?php include '../incs/sidebar.php'; ?>
 
