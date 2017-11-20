@@ -1,4 +1,4 @@
-<?php require_once ''; ?>
+<?php require_once '../bdd/connexion.php'; ?>
 <?php include '../incs/header.php'; ?>
 <?php include '../incs/sidebar.php'; ?>
 
